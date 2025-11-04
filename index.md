@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inicio
+title: inicio
 ---
 
 # ¡Bienvenido a mi sito web: DAVID ORTIZ!
