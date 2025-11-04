@@ -27,7 +27,7 @@ Aqui podremos poner mas contenido
     <tr>
 <td>2</td>
 <td>Barça</td>
- <td>40</td>
+ <td>30</td>
     </tr>
     
   </table>
