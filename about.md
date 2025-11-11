@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Acerca de
+title: acercade
 ---
 
 Aqui puedes escribir informacion sobre ti o tu sitio web
