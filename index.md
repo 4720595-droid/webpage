@@ -1,18 +1,13 @@
 ---
-layout: default
-title: inicio
+layout: splash
+title: Inicioo
+header:
+  overlay_color: "#fff"
+  overlay_filter: "0"
+  overlay_image: https://3.bp.blogspot.com/-wdk8M3w2JW0/VV8W1VwtVUI/AAAAAAAACLM/XUjxSpGrSXo/s320/LOGO%2BPRINCIPAL.bmp
+caption: "La foto la echó Perico de los palotes"
+excerpt: "Logo del centro educativo FPS"
 ---
-
-# ¡Bienvenido a mi sito web: DAVID ORTIZ!
-
-Esta es una pagina de mierda creada por mi con Jekyll y Github Pages
-
-## Este es un tiutlo de tipo 2
-
-Aqui podremos poner mas contenido
-
-### Este es un titulo de tipo 3 (a mayor numeracion, mas pequeño es el titulo)
-
   <table>
   <tr>
   <th>Posicion</th>
