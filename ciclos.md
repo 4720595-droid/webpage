@@ -12,8 +12,8 @@ permalink: /ciclos/
 ## Informatica de Oficina
 Curso | Módulo Profesional | Horas totales
 1 | Montaje y mantenimiento de sistemas y componentes informáticos | 375
-1|Ciencias aplicadas I|140
-1|Comunicación y sociedad|140
+1 | Ciencias aplicadas I | 140
+1 | Comunicación y sociedad | 140
 1|Tutoría|30
 1|Operaciones auxiliares para la configuración y la explotación|260
 1|Itienerario personal para la empleabilidad|55
