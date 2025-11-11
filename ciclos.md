@@ -22,5 +22,6 @@ Curso|Módulo Profesional|Horas totales
 2|Ciencias aplicadas II|130
 2|Comunicación y sociedad II|130
 2|Tutoría|30
-2	Proyecto intermodular de aprendizaje colaborativo	50
+2|Proyecto intermodular de aprendizaje colaborativo|50
+
 ## Alojamiento
