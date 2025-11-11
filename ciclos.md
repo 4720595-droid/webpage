@@ -10,8 +10,8 @@ permalink: /ciclos/
 
 # C.F. de Formacion Profesional Basica
 ## Informatica de Oficina
-Curso|Módulo Profesional|Horas totales
-1|Montaje y mantenimiento de sistemas y componentes informáticos|375
+Curso | Módulo Profesional | Horas totales
+1 | Montaje y mantenimiento de sistemas y componentes informáticos | 375
 1|Ciencias aplicadas I|140
 1|Comunicación y sociedad|140
 1|Tutoría|30
